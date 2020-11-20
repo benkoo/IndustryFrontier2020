@@ -1,7 +1,7 @@
 #Apple Temporary Files
 .DS_Store
 
-#Microsoft Temporary Files
+#Microsoft Temporary Files and some other things.
 ~$*
 
 # This .gitignore file should be placed at the root of your Unity project directory
